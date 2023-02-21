@@ -11,8 +11,6 @@ git branch -u origin/main main
 git remote set-head origin -a
 
 ## Authors
-
-## Authors
 - [@Joey Whitehead](https://www.github.com/Fledtrain)
 - [@Mohamed Musbah](https://github.com/MohamedM829)
 - [@Emdadul Haque](https://www.linkedin.com/in/emdadul-haque-67a021154/)
