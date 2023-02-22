@@ -1,7 +1,7 @@
 # CA-3
 Created a txt.file
 
-#Step by Step
+# Step by Step
 
 You use these to change the branch to rename main
 
