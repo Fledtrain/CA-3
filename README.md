@@ -1,6 +1,6 @@
 # CA-3
-Created a txt.file
-Created a README.md
+- Created a txt.file
+- Created a README.md
 
 # Step by Step
 
