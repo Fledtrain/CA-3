@@ -1,9 +1,9 @@
 # CA-3
 - Created a txt.file
 - Created a README.md
+- Changed the branch name to main (Steps below)
 
 # Step by Step
-
 Used these to change the branch to be renamed main
 - git branch -m master main
 - git fetch origin
