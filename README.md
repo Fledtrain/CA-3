@@ -1,14 +1,14 @@
 # CA-3
 Created a txt.file
+Created a README.md
 
 # Step by Step
 
-You use these to change the branch to rename main
-
-git branch -m master main
-git fetch origin
-git branch -u origin/main main
-git remote set-head origin -a
+Used these to change the branch to be renamed main
+- git branch -m master main
+- git fetch origin
+- git branch -u origin/main main
+- git remote set-head origin -a
 
 ## Authors
 - [@Joey Whitehead](https://www.github.com/Fledtrain)
