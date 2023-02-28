@@ -4,7 +4,7 @@
 - Changed the branch name to main (Steps below)
 
 # Step by Step
-Used these to change the branch to be renamed main
+Used these steps to change the branch to be renamed "main"
 - git branch -m master main
 - git fetch origin
 - git branch -u origin/main main
