@@ -16,3 +16,4 @@ Used these steps to change the branch to be renamed "main"
 - [@Emdadul Haque](https://www.linkedin.com/in/emdadul-haque-67a021154/)
 - [@Ahmad Aref](https://www.linkedin.com/in/ahmadsaref/)
 - [@Joel Grau](https://www.linkedin.com/in/joel-grau-1a056714a/)
+- [@Anthony Condegni](https://www.linkedin.com/in/anthony-condegni-80365a1ba/)
